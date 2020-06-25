@@ -1,0 +1,22 @@
+{
+  "name": "25-06-2020_exercicio_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-brunetti/exercicio-express.git"
+  },
+  "author": "Gabriel Brunetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-brunetti/exercicio-express/issues"
+  },
+  "homepage": "https://github.com/gabriel-brunetti/exercicio-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
